@@ -15,3 +15,7 @@ function Bear() {
  this.htmlElement.style.display = "absolute";
  };
 }
+function start() {
+ //create bear
+ bear = new Bear();
+}
